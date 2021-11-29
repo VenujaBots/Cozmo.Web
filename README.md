@@ -1,8 +1,8 @@
 # Natsuki.Web
 <b>
-Website for <a href="https://t.me/TheNatsukiBot">Natsuki Telegram bot</a>.
+Website for <a href="https://t.me/TheCozmo_Bot">Natsuki Telegram bot</a>.
 <br>
-  Link is at the <a href="https://github.com/Sadew451/Natsuki.Web#the-end">of this text</a>.</b>
+  Link is at the <a href="https://github.com/VenujaBots/Cozmo.Web#the-end">of this text</a>.</b>
 <hr>
 
 # Laguages
@@ -34,7 +34,7 @@ Website for <a href="https://t.me/TheNatsukiBot">Natsuki Telegram bot</a>.
   <hr>
   
   # Logo
-  <div align="center"><img src="https://raw.githubusercontent.com/Sadew451/Natsuki.Web/main/favicon.png" width="30%">&nbsp;&nbsp;&nbsp;</div>
+  <div align="center"><img src="https://raw.githubusercontent.com/VenujaBots/Cozmo.Web/main/favicon.png" width="30%">&nbsp;&nbsp;&nbsp;</div>
   
   <hr>
   
@@ -50,4 +50,4 @@ Website for <a href="https://t.me/TheNatsukiBot">Natsuki Telegram bot</a>.
   
   <b>So at the end only thing I have to tell you is the link to visit the website.</b>
   
-  <a href="https://sadew451.github.io/Natsuki.Web/" align="center"><img src="https://img.shields.io/badge/Visit-Black" width="10%"></a>
+  <a href="https://VenujaBots.github.io/Cozmo.Web/" align="center"><img src="https://img.shields.io/badge/Visit-Black" width="10%"></a>
